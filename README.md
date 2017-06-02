@@ -9,7 +9,7 @@ Electronics > Arcade Equipment > Pinball Machine Accessories <br>
 Electronics > Arcade Equipment > Pinball Machines <br> 
 Electronics > Arcade Equipment > Skee-Ball Machines <br> 
 <br>
-Queries: <br> 
+#### Queries: <br> 
 Electronics = 14 <br> 
 Electronics > Arcade Equipment = 7 <br> 
 Electronics > Arcade Equipment > Video Game Arcade Cabinets = 1 <br> 
